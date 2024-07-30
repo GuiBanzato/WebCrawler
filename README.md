@@ -15,7 +15,7 @@ Siga os passos abaixo para instalar e configurar o ambiente necessário para rod
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/caperez07/Bingos-face.git
+    git clone https://github.com/GuiBanzato/WebCrawler
     ```
 
 2. Instale as dependências:
